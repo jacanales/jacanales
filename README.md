@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacanales&show_icons=true&locale=en" alt="jacanales" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacanales&" alt="jacanales" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/jacanales)  
