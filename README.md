@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacanales&label=Profile%20views&color=0e75b6&style=flat" alt="jacanales" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacanales" alt="jacanales" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tanque_tm" target="blank"><img src="https://img.shields.io/twitter/follow/tanque_tm?logo=twitter&style=for-the-badge" alt="tanque_tm" /></a> </p>
 
 - 🔭 I’m currently working at [Loyal Gurú](https://www.loyal.guru)
