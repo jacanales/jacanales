@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A passionate Software Engineer / Backend Developer from Barcelona</h3>
+<h3 align="center">A passionate Platform / Software Engineer from Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacanales&label=Profile%20views&color=0e75b6&style=flat" alt="jacanales" /> </p>
 
