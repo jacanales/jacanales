@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A passionate Platform / Software Engineer from Barcelona</h3>
+<h3 align="center">A passionate Security Software Engineer from Barcelona</h3>
+<h4 align="center">I have worked also as a Platform Engineer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacanales&label=Profile%20views&color=0e75b6&style=flat" alt="jacanales" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanque_tm" target="blank"><img src="https://img.shields.io/twitter/follow/tanque_tm?logo=twitter&style=for-the-badge" alt="tanque_tm" /></a> </p>
 
-- 🔭 I’m currently working at [Loyal Gurú](https://www.loyal.guru)
+- 🔭 I’m currently working at [Okta](https://www.okta.com/) / [Auth0](https://auth0.com/)
 
 - 🌱 I’m currently learning **Cybersecurity, GCP, Terraform, Packer...**
 
