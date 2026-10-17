@@ -26,10 +26,7 @@ Google Cloud Blog, 2024. Our PostgreSQL to AlloyDB migration, written up by Goog
 
 | Repository | What it is |
 | --- | --- |
-| [docker-monitoring-stack](https://github.com/jacanales/docker-monitoring-stack) | Self-hosted metrics pipeline: StatsD-style collection through Telegraf into InfluxDB 3, graphed by Grafana, behind Traefik. |
-| [pokeapi](https://github.com/jacanales/pokeapi) | Pokémon API client in Go, built as a Codely exercise. |
 | [vuejs-personal-webpage](https://github.com/jacanales/vuejs-personal-webpage) | Source for [jacd.es](https://www.jacd.es/). Vue 3, Vite, TypeScript. |
-| [flappy-gopher](https://github.com/jacanales/flappy-gopher) | Flappy Bird in Go, following the "just for func" walkthrough. |
 
 ## Elsewhere
 
