@@ -1,41 +1,36 @@
-<h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A passionate Security Software Engineer from Barcelona</h3>
-<h4 align="center">I have worked also as a Platform Engineer</h4>
+# Jesús Antonio Canales Diez
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacanales&label=Profile%20views&color=0e75b6&style=flat" alt="jacanales" /> </p>
+**Security Software Engineer.** Writing software since 1999, shipping it for more
+than two decades — most of it now on the side where a mistake costs someone else
+their data.
 
-<p align="left"> <a href="https://twitter.com/tanque_tm" target="blank"><img src="https://img.shields.io/twitter/follow/tanque_tm?logo=twitter&style=for-the-badge" alt="tanque_tm" /></a> </p>
+Currently at [Okta](https://www.okta.com/) (Auth0). Before that, Platform & Security
+Tech Lead at [Loyal Guru](https://loyalguru.com/).
 
-- 🔭 I’m currently working at [Okta](https://www.okta.com/) / [Auth0](https://auth0.com/)
+## What I work on
 
-- 🌱 I’m currently learning **Cybersecurity, GCP, Terraform, Packer...**
+**Identity and access.** IAM practice, threat modelling, SDL, and the disaster
+recovery story nobody reads until the day they need it.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacanales?tab=repositories](https://github.com/jacanales?tab=repositories)
+**Platform.** GCP, Kubernetes, infrastructure as code, and observability where the
+alerts earn their noise.
 
-- 📫 How to reach me **https://www.jacd.es/#/**
+**Code.** Go day to day, with Postgres, Redis and cloud infrastructure underneath.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jacanales/](https://www.linkedin.com/in/jacanales/)
+## Writing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jacanales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jacanales" height="30" width="40" /></a>
-<a href="https://dev.to/jacanales" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="jacanales" height="30" width="40" /></a>
-<a href="https://twitter.com/tanque_tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanque_tm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jacanales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacanales" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/40772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="40772" height="30" width="40" /></a>
-<a href="https://fb.com/jacanalesdiez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jacanalesdiez" height="30" width="40" /></a>
-<a href="https://instagram.com/tanque_tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanque_tm" height="30" width="40" /></a>
-<a href="https://medium.com/@tanque_tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanque_tm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jacanalesdiez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jacanalesdiez" height="30" width="40" /></a>
-</p>
+**[Loyal Guru slashes query latency by 40-50% with AlloyDB](https://cloud.google.com/blog/products/databases/loyal-guru-slashes-query-latency-with-alloydb/)**<br>
+Google Cloud Blog, 2024. Our PostgreSQL to AlloyDB migration, written up by Google.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+## Selected work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacanales&show_icons=true&locale=en&layout=" alt="jacanales" /></p>
+| Repository | What it is |
+| --- | --- |
+| [docker-monitoring-stack](https://github.com/jacanales/docker-monitoring-stack) | Self-hosted metrics pipeline: StatsD-style collection through Telegraf into InfluxDB 3, graphed by Grafana, behind Traefik. |
+| [pokeapi](https://github.com/jacanales/pokeapi) | Pokémon API client in Go, built as a Codely exercise. |
+| [vuejs-personal-webpage](https://github.com/jacanales/vuejs-personal-webpage) | Source for [jacd.es](https://www.jacd.es/). Vue 3, Vite, TypeScript. |
+| [flappy-gopher](https://github.com/jacanales/flappy-gopher) | Flappy Bird in Go, following the "just for func" walkthrough. |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacanales&show_icons=true&locale=en" alt="jacanales" /></p>
+## Elsewhere
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacanales&" alt="jacanales" /></p>
-
-![GitHub metrics](https://metrics.lecoq.io/jacanales)  
+[jacd.es](https://www.jacd.es/) · [LinkedIn](https://www.linkedin.com/in/jacanales/) · [X](https://x.com/tanque_tm) · [contact@jacd.es](mailto:contact@jacd.es)
